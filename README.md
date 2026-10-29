@@ -52,17 +52,6 @@ I enjoy solving challenges where cross-platform frameworks meet native systems鈥
 
 **Specialties:** SIP/VoIP 路 PJSIP 路 WebSocket 路 Native platform integration 路 Application architecture
 
-### Selected work
-
-| Project | Focus |
-| --- | --- |
-| **Primas Communication** | Cross-platform messaging and SIP/VoIP calling; native Android/iOS integration. |
-| **Primas Softphone Desktop** | Windows/macOS softphone built with Electron, React, C++, and PJSIP. |
-| **SoundLine Dialer** | Mobile business dialer with Click2Call and native cellular calling. |
-| **Primas HRM** | Employee self-service application for attendance, leave, and HR workflows. |
-| **RAS Crab Farm** | Mobile farm-management workflows and environmental monitoring. |
-
-> These are professional projects. Descriptions are shared for portfolio purposes; company source code is not public.
 
 See product information and public store links on my [portfolio](https://lirunghi.io.vn/).
 
