@@ -57,4 +57,4 @@ See product information and public store links on my [portfolio](https://lirungh
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/thiennn261/) · [Facebook](https://www.facebook.com/Lirunghi261) · [YouTube](https://www.youtube.com/channel/UC5fpMapAV1eX98SjWVj_ICA) · [Email](mailto:lirunghi261@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/thiennn261/) · [Facebook](https://www.facebook.com/Lirunghi261) · [Email](mailto:lirunghi261@gmail.com)
